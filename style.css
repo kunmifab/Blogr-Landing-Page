@@ -4,8 +4,13 @@
     margin: 0;
 }
 
-.container {
+.container-fluid {
     background-color: #fafafa;
+    font-family: "Overpass", sans-serif;
+}
+
+h2, h4, h5 {
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .designed-row, .second-row {
@@ -170,7 +175,6 @@ ul {
         margin: auto;
         text-align: center;
         padding-top: 2rem;
-        
     }
 
     .top-btn {
