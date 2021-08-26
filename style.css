@@ -7,6 +7,7 @@
 .container-fluid {
     background-color: #fafafa;
     font-family: "Overpass", sans-serif;
+    overflow-x: hidden;
 }
 
 h2, h4, h5 {
@@ -33,10 +34,10 @@ h2, h4, h5 {
     background-image: url(./images/illustration-phones.svg);
     background-size: 25vw 50vh;
     background-repeat: no-repeat;
-    height: 80vh;
+    height: 50vh;
     width: 100%;
     position: absolute;
-    transform: translate(100px, -50px);
+    transform: translate(100px, -150px);
 }
 
 .laptop-img {
